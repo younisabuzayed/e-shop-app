@@ -1,0 +1,14 @@
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REOMVE_FROM_CART = "REOMVE_FROM_CART";
+export const CLEAR_CART = "CLEAR_CART";
+
+// Products
+export const PRODUCTS_STATE = 'PRODUCTS_STATE';
+export const PRODUCTS_SUCCESS = 'PRODUCTS_SUCCESS';
+export const PRODUCTS_FAILED = 'PRODUCTS_FAILED';
+
+
+// Categories
+export const CATEGORIES_STATE = 'CATEGORIES_STATE';
+export const CATEGORIES_SUCCESS = 'CATEGORIES_SUCCESS';
+export const CATEGORIES_FAILED = 'CATEGORIES_FAILED';
